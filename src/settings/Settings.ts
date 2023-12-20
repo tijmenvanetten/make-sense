@@ -27,7 +27,7 @@ export class Settings {
     public static readonly DARK_THEME_FORTH_COLOR: string = '#262c2f';
 
     public static readonly CROSS_HAIR_THICKNESS_PX: number = 1;
-    public static readonly CROSS_HAIR_COLOR: string = '#fff';
+    public static readonly CROSS_HAIR_COLOR: string = '#000000';
 
     public static readonly RESIZE_HANDLE_DIMENSION_PX: number = 8;
     public static readonly RESIZE_HANDLE_HOVER_DIMENSION_PX = 16;
